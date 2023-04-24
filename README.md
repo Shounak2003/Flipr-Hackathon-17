@@ -47,3 +47,8 @@ We welcome contributions to the Podcast Web App! If you are interested in contri
 
 This project is licensed under the MIT License.
 
+
+
+![interface](https://user-images.githubusercontent.com/104295340/233939015-4e7ccd6e-2c58-4e72-9df5-3faadef5eef3.png)
+
+
